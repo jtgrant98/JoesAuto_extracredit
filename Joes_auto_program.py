@@ -26,6 +26,6 @@ print(f'Manufacturer = {car.get_make()}\n'
       f'Model : {car.get_model()}\nYear : {car.get_year()}')
 print('\nCHARGE INFORMATION')
 print(f'Parts cost : {charges.get_parts_charges()}\n'
-      f'Labour cost : {charges.get_labour_charges()}\n'
+      f'Labour cost : {charges.get_labor_charges()}\n'
       f'Sales Tax : {charges.get_sales_tax()}\n'
       f'Total Charges : {charges.get_total_charges()}')
